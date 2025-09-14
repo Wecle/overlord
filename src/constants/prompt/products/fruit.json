@@ -1,0 +1,109 @@
+{
+  "products": [
+    {
+      "name": "晨露月果",
+      "description": "于月光下成熟，果肉含微量月辉能量，食用后短时间提升专注与夜视。",
+      "sku": "FRUIT-MOON-DEW-001",
+      "price": 4.9,
+      "currency": "USD",
+      "quantity": 6,
+      "type": "PHYSICAL_GOODS",
+      "weight_kg": 0.45,
+      "dimensions_cm": "20x15x10",
+      "material": "Moon-kissed Pulp, Organic Peel",
+      "certification": "Druidic Orchard Seal"
+    },
+    {
+      "name": "炎核石榴",
+      "description": "籽粒温热似微炭火，入喉后体温上升，抗寒效果显著，深冬行军推荐。",
+      "sku": "FRUIT-FIRE-POME-002",
+      "price": 4.5,
+      "currency": "USD",
+      "quantity": 4,
+      "type": "PHYSICAL_GOODS",
+      "weight_kg": 0.9,
+      "dimensions_cm": "14x14x14",
+      "material": "Spicy Arils, Fire-tinged Husk",
+      "certification": "Ember Orchard Mark"
+    },
+    {
+      "name": "风吟苹果",
+      "description": "风灵庇护的苹果，咬下时会发出轻盈风铃声，短时提升移动速度。",
+      "sku": "FRUIT-WIND-APPLE-003",
+      "price": 3.2,
+      "currency": "USD",
+      "quantity": 8,
+      "type": "PHYSICAL_GOODS",
+      "weight_kg": 0.24,
+      "dimensions_cm": "8x8x8",
+      "material": "Aery Flesh, Crisp Skin",
+      "certification": "Sylphic Grove Stamp"
+    },
+    {
+      "name": "海蓝莓",
+      "description": "吸纳潮汐精华的蓝莓，恢复少量体力并微量补充法力，适合远征补给。",
+      "sku": "FRUIT-TIDE-BERRY-004",
+      "price": 4.2,
+      "currency": "USD",
+      "quantity": 20,
+      "type": "PHYSICAL_GOODS",
+      "weight_kg": 0.3,
+      "dimensions_cm": "10x10x6",
+      "material": "Briny Juice, Soft Peel",
+      "certification": "Mariner's Garden Crest"
+    },
+    {
+      "name": "星脉葡萄",
+      "description": "夜空下呈现细微星纹，成串果实能稳定精神，降低施法失手率。",
+      "sku": "FRUIT-STAR-GRAPE-005",
+      "price": 4.8,
+      "currency": "USD",
+      "quantity": 1,
+      "type": "PHYSICAL_GOODS",
+      "weight_kg": 0.6,
+      "dimensions_cm": "25x12x10",
+      "material": "Starlit Juice, Thin Skin",
+      "certification": "Celestial Orchard Emblem"
+    },
+    {
+      "name": "霜蜜梨",
+      "description": "表皮覆细霜，入口生津止渴并缓解灼伤，常用于龙息灼伤后的应急食疗。",
+      "sku": "FRUIT-FROST-PEAR-006",
+      "price": 4.9,
+      "currency": "USD",
+      "quantity": 5,
+      "type": "PHYSICAL_GOODS",
+      "weight_kg": 0.7,
+      "dimensions_cm": "12x9x9",
+      "material": "Iced Nectar, Crisp Flesh",
+      "certification": "Glacier Grove Mark"
+    },
+    {
+      "name": "荆影黑莓",
+      "description": "暗林荆蔓孕育，味微涩，短时间提升潜行与暗影抗性，盗贼与斥候爱用。",
+      "sku": "FRUIT-SHADOW-BLACKBERRY-007",
+      "price": 4.3,
+      "currency": "USD",
+      "quantity": 16,
+      "type": "PHYSICAL_GOODS",
+      "weight_kg": 0.28,
+      "dimensions_cm": "11x11x6",
+      "material": "Shadow-sweet Drupelets",
+      "certification": "Umbral Thicket Seal"
+    },
+    {
+      "name": "日耀柑",
+      "description": "晴空祝福的柑果，驱散轻微疲惫与寒意，常见于南方修会的学徒早餐。",
+      "sku": "FRUIT-SUN-MANDARIN-008",
+      "price": 4.2,
+      "currency": "USD",
+      "quantity": 6,
+      "type": "PHYSICAL_GOODS",
+      "weight_kg": 0.5,
+      "dimensions_cm": "10x10x10",
+      "material": "Sunny Segments, Zesty Peel",
+      "certification": "Solar Orchard Stamp"
+    }
+  ]
+}
+

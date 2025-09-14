@@ -1,0 +1,109 @@
+{
+  "products": [
+    {
+      "name": "初级治疗药水",
+      "description": "以红叶草与精灵泉调和，快速恢复少量生命并止血。",
+      "sku": "POTION-HEALING-I-001",
+      "price": 4.5,
+      "currency": "USD",
+      "quantity": 10,
+      "type": "PHYSICAL_GOODS",
+      "weight_kg": 0.25,
+      "dimensions_cm": "15x5x5",
+      "material": "Redleaf Extract, Springwater",
+      "certification": "Apothecary Guild Grade I"
+    },
+    {
+      "name": "法力回复药剂",
+      "description": "蓝金藤蒸馏物，快速恢复法力并稳定精神波动，减少施法疲劳。",
+      "sku": "POTION-MANA-RESTORE-002",
+      "price": 4.8,
+      "currency": "USD",
+      "quantity": 10,
+      "type": "PHYSICAL_GOODS",
+      "weight_kg": 0.24,
+      "dimensions_cm": "15x5x5",
+      "material": "Azurgold Vine, Focus Salts",
+      "certification": "Arcanists Collegium Mark"
+    },
+    {
+      "name": "抗龙息抗性药剂",
+      "description": "以黑曜粉与龙莳草熬制，短时间提升对火焰、冰霜、酸雾龙息的抗性。",
+      "sku": "POTION-DRAGONBREATH-RESIST-003",
+      "price": 4.9,
+      "currency": "USD",
+      "quantity": 6,
+      "type": "PHYSICAL_GOODS",
+      "weight_kg": 0.3,
+      "dimensions_cm": "16x6x6",
+      "material": "Obsidian Powder, Dragonsward",
+      "certification": "Runebreaker Collegium Seal"
+    },
+    {
+      "name": "迅捷药水",
+      "description": "风灵露与银铃草精华，短时间提升移动与攻击速度。",
+      "sku": "POTION-HASTE-004",
+      "price": 4.7,
+      "currency": "USD",
+      "quantity": 8,
+      "type": "PHYSICAL_GOODS",
+      "weight_kg": 0.22,
+      "dimensions_cm": "14x5x5",
+      "material": "Sylph Dew, Bellflower Tincture",
+      "certification": "Ranger-Court Endorsement"
+    },
+    {
+      "name": "石肤药剂",
+      "description": "岩髓浸泡液，短时间提升护甲并降低物理伤害，副作用为行动略迟缓。",
+      "sku": "POTION-STONESKIN-005",
+      "price": 4.6,
+      "currency": "USD",
+      "quantity": 6,
+      "type": "PHYSICAL_GOODS",
+      "weight_kg": 0.35,
+      "dimensions_cm": "17x6x6",
+      "material": "Golem Marrow, Iron Dust",
+      "certification": "Battlemage Foundry Brand"
+    },
+    {
+      "name": "隐形药水",
+      "description": "夜影藤与月影草蒸馏，饮用后短时间隐身，强光照射会缩短时效。",
+      "sku": "POTION-INVISIBILITY-006",
+      "price": 4.95,
+      "currency": "USD",
+      "quantity": 3,
+      "type": "PHYSICAL_GOODS",
+      "weight_kg": 0.27,
+      "dimensions_cm": "15x5x5",
+      "material": "Nightvine Distillate, Moonsheen",
+      "certification": "Nocturne Alchemists Seal"
+    },
+    {
+      "name": "净化圣水",
+      "description": "圣堂祝圣泉水，解除轻微诅咒与毒素，常备于龙讨伐队。",
+      "sku": "POTION-HOLY-WATER-007",
+      "price": 4.4,
+      "currency": "USD",
+      "quantity": 10,
+      "type": "PHYSICAL_GOODS",
+      "weight_kg": 0.3,
+      "dimensions_cm": "16x6x6",
+      "material": "Consecrated Spring, Silver Salt",
+      "certification": "Cathedral Reliquary Mark"
+    },
+    {
+      "name": "龙血强效药剂",
+      "description": "以无害方式收集的龙血稀释萃取，短时间大幅提升力量与抗性，副作用为心率上升。",
+      "sku": "POTION-DRAGON-BLOOD-008",
+      "price": 4.99,
+      "currency": "USD",
+      "quantity": 2,
+      "type": "PHYSICAL_GOODS",
+      "weight_kg": 0.32,
+      "dimensions_cm": "16x6x6",
+      "material": "Dragon Vitalis (Diluted), Stabilizers",
+      "certification": "Wardens Ethical Handling Seal"
+    }
+  ]
+}
+
