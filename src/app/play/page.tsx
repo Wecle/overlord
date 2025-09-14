@@ -1,11 +1,11 @@
 "use client"
 
-import { useEffect, useMemo, useState } from "react"
+import { Suspense, useEffect, useMemo, useState } from "react"
 import { useSearchParams, useRouter } from "next/navigation"
 import { GameRunner } from "@/components/GameRunner/GameRunner"
 import { decodeSharePayload, createShortLink } from "@/utils/share"
 
-export default function PlayPage() {
+function PlayPageContent() {
   const searchParams = useSearchParams()
   const router = useRouter()
   const [ready, setReady] = useState(false)
@@ -82,6 +82,14 @@ export default function PlayPage() {
     <div className="min-h-screen bg-black">
       <GameRunner models={models} mapConfig={mapConfig} hideUI showInfoPanel />
     </div>
+  )
+}
+
+export default function PlayPage() {
+  return (
+    <Suspense fallback={<div className="min-h-screen bg-black flex items-center justify-center"><div className="text-white">加载中...</div></div>}>
+      <PlayPageContent />
+    </Suspense>
   )
 }
 
